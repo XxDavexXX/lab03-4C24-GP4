@@ -18,6 +18,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("hol hola hola ");
+        System.out.println("HOLA ");
     }
 }
