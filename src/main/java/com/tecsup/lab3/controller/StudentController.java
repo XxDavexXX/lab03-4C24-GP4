@@ -7,6 +7,7 @@ public class StudentController {
 		System.out.println("Cambios Responsable Dave Santivañez");
 		System.out.println("Cambios Colaborador Yeffer Sime");	
 		System.out.println("Cambios Colaborador Diego Moreno");	
+		System.out.println("Cambios Colaborador Alexander Vilca");
 	}
 
 }
