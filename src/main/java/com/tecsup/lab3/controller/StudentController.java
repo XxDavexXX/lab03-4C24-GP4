@@ -6,6 +6,7 @@ public class StudentController {
 		// TODO Auto-generated method stub
 		System.out.println("Cambios Responsable Dave Santivañez");
 		System.out.println("Cambios Colaborador Yeffer Sime");	
+		System.out.println("Cambios Colaborador Diego Moreno");	
 	}
 
 }
